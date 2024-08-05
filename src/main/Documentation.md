@@ -11,6 +11,10 @@ The Music Exporter application allows users to export music data and save it in 
 ## Prerequisites
 
 - Python 3.12.3 (64-bit)
+- Update the pip package installer. To upgrade run the following command in terminal:
+```sh
+python -m pip install --upgrade pip
+```
 
 ## Installation
 
